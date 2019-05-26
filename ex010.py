@@ -8,4 +8,3 @@ A = float(input('digite o valor do lado A:'))
 # area_retangulo = A*B
 #
 # print('\n a area do triangulo retangulo e {}\n a area do circulo e {}\n a area do trapezio e {}\n a area do quadrado e {}\n a area do retangulo e {}\n'.format(area_triretan, area_circulo, area_trapezio, area_quadrado, area_retangulo))
-# # esse codigo ficou uma merda, parabens nota zero
